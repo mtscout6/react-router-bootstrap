@@ -1,5 +1,10 @@
 # react-router-bootstrap
 
+__NOTE REPO HAS MOVED__ This repo has been transferred to the
+[react-bootstrap](https://github.com/react-bootstrap) organization and can now
+be found [here](https://github.com/react-bootstrap/react-router-bootstrap). All
+historical issues and pull requests will be available there.
+
 [![Build Status](https://travis-ci.org/mtscout6/react-router-bootstrap.svg?branch=master)](https://travis-ci.org/mtscout6/react-router-bootstrap)
 
 Intregation between [react-router](https://github.com/rackt/react-router) and [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
